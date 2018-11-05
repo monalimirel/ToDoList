@@ -5,6 +5,7 @@ CSC690 Assignment 2: Todo app!
 - A user should be able to mark a task as complete
 - A user should be able to see all completed tasks in a UITableView
 - A user should be able to close and reopen the app without loosing any tasks
+
 Grading:
 - 60%: All user stories are implemented and working.
 - 30%: The app is using MVC correctly and has unit tests for the model
